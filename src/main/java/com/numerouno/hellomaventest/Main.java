@@ -17,7 +17,7 @@ public class Main {
         
        
         
-        System.out.println("Adding another line here to test!");
+        System.out.println("Testing git hook!");
         
     }
     
